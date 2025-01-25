@@ -27,6 +27,8 @@
 
 A fast and flexible static site generator built with love by [bep], [spf13], and [friends] in [Go].
 
+<ruby>A fast<rt>速い</rt></ruby> <ruby>and flexible static site generator built<rt>柔軟な静的サイトジェネレーターを構築</rt></ruby> <ruby>with love<rt>愛を込めて</rt></ruby> <ruby>by [bep],<rt>[bep]より、</rt></ruby> <ruby>[spf13],<rt>[spf13],</rt></ruby> <ruby>and [friends]<rt>そして[友達]</rt></ruby> <ruby>in [Go].<rt>[Go]で。</rt></ruby>
+
 ---
 
 [![GoDoc](https://godoc.org/github.com/gohugoio/hugo?status.svg)](https://godoc.org/github.com/gohugoio/hugo)
@@ -40,6 +42,8 @@ Hugo is a [static site generator] written in [Go], optimized for speed and desig
 
 Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:
 
+<ruby>Due<rt>期限</rt></ruby> <ruby>to its flexible framework,<rt>柔軟なフレームワークにより、</rt></ruby> <ruby>multilingual support,<rt>多言語サポート、</rt></ruby> <ruby>and powerful taxonomy system,<rt>強力な分類システム、</rt></ruby> <ruby>Hugo is widely used<rt>Hugoは広く使われている</rt></ruby> <ruby>to create:<rt>作成する:</rt></ruby> 
+
 - Corporate, government, nonprofit, education, news, event, and project sites
 - Documentation sites
 - Image portfolios
@@ -47,7 +51,14 @@ Due to its flexible framework, multilingual support, and powerful taxonomy syste
 - Business, professional, and personal blogs
 - Resumes and CVs
 
+ - 企業、</rt></ruby> <ruby>government,<rt>政府、</rt></ruby> <ruby>nonprofit,<rt>非営利、</rt></ruby> <ruby>education,<rt>教育、</rt></ruby> <ruby>news,<rt>ニュース、</rt></ruby> <ruby>event,<rt>イベント、</rt></ruby> <ruby>and project sites
+ - Documentation sites
+ - Image portfolios - Landing pages - Business,<rt>プロジェクトサイト - ドキュメントサイト - 画像ポートフォリオ - ランディングページ - ビジネス、</rt></ruby> <ruby>professional,<rt>プロ、</rt></ruby> <ruby>and personal blogs
+- Resumes<rt>個人ブログ - 履歴書</rt></ruby> <ruby>and CVs<rt>および履歴書</rt></ruby> 
+
 Use Hugo's embedded web server during development to instantly see changes to content, structure, behavior, and presentation. Then deploy the site to your host, or push changes to your Git provider for automated builds and deployment.
+
+<ruby>Use Hugo's embedded web server<rt>Hugoの組み込みウェブサーバーを使用する</rt></ruby> <ruby>during development<rt>開発中</rt></ruby> <ruby>to instantly see changes<rt>変化を即座に確認する</rt></ruby> <ruby>to content,<rt>コンテンツに、</rt></ruby> <ruby>structure,<rt>構造、</rt></ruby> <ruby>behavior,<rt>行動、</rt></ruby> <ruby>and presentation.<rt>そしてプレゼンテーション。</rt></ruby> <ruby>Then deploy the site<rt>次にサイトを展開します</rt></ruby> <ruby>to your host,<rt>あなたのホストに、</rt></ruby> <ruby>or push changes<rt>または変更をプッシュする</rt></ruby> <ruby>to your Git provider<rt>Gitプロバイダーへ</rt></ruby> <ruby>for automated builds<rt>自動ビルド用</rt></ruby> <ruby>and deployment.<rt>および展開。</rt></ruby>
 
 Hugo's fast asset pipelines include:
 
